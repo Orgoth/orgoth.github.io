@@ -1,0 +1,12 @@
+## IDE files and folders
+.cache
+.project
+.settings
+nbproject
+.idea
+.DS_Store
+.directory
+.~lock*
+
+## Allow 'empty' files
+!empty
